@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #5D6D7E;">Hi, I'm JonnyDfilms</h1>
-<h3 style="color: #8A9A5B;">Developer · Content Creator · Systems Tinkerer</h3>
+<h1 style="font-family: sans-serif; color: #5D6D7E;">Hello! I'm JonnyDfilms</h1>
+<p style="font-family: sans-serif; color: #8A9A5B; font-size: 1.2em;">Developer · Content Creator · Systems Tinkerer</p>
 
-<!-- Friendly Typing Animation -->
+<!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=500&size=20&pause=1500&color=8A9A5B&center=true&vCenter=true&width=560&height=35&lines=Building+custom+mechanics+in+Python+%26+C++;Game+development+with+Fabric+%26+Roblox;Short-form+video+production+enthusiast" alt="Typing SVG" />
 
 <br><br>
@@ -15,14 +15,14 @@
 
 <br>
 
-## About
+## 📖 About Me
 I am a developer who loves building, whether it's low-level systems code or high-level creative content. I bridge the gap between technical utility and digital storytelling. 
 
 Currently, I spend my time exploring **game engine mechanics**, **backend infrastructure**, and **content production**. My goal is to create clean, efficient tools that make complex tasks feel simple and accessible.
 
 <br>
 
-## Technical Stack
+## 🛠️ Technical Stack
 
 <table>
 <tr>
@@ -58,7 +58,7 @@ Currently, I spend my time exploring **game engine mechanics**, **backend infras
 
 <br>
 
-## Activity
+## 📈 Activity
 
 <div align="center">
 <img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5D6D7E&icon_color=8A9A5B&text_color=5D6D7E&border_radius=6" alt="stats" />
