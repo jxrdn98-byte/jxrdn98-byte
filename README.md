@@ -3,7 +3,7 @@
     <!-- LEFT COLUMN: Sidebar & Badge Area -->
     <td width="30%" valign="top" align="center">
       
-      <!-- Profile Picture (Replace URL with your own) -->
+      <!-- Profile Picture -->
       <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=150&h=150&fit=crop&crop=faces" width="130" style="border-radius: 50%; border: 3px solid #C5A059;" alt="Jordan" />
       
       <br><br>
