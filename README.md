@@ -1,72 +1,89 @@
-<div align="center">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <!-- LEFT COLUMN: Sidebar & Badge Area -->
+    <td width="30%" valign="top" align="center">
+      
+      <!-- Profile Picture (Replace URL with your own) -->
+      <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=150&h=150&fit=crop&crop=faces" width="130" style="border-radius: 50%; border: 3px solid #C5A059;" alt="Jordan" />
+      
+      <br><br>
+      
+      <h4 style="font-family: 'Georgia', serif; color: #C5A059; margin-bottom: 8px; font-weight: normal;">Focus & Environment</h4>
+      <img src="https://img.shields.io/badge/Focus-Engine%20Architecture-1F1C18?style=flat-square&logoColor=C5A059" /><br>
+      <img src="https://img.shields.io/badge/Env-CachyOS-1F1C18?style=flat-square&logo=linux&logoColor=C5A059" /><br>
+      <img src="https://img.shields.io/badge/Modding-Fabric-1F1C18?style=flat-square&logo=minecraft&logoColor=C5A059" />
+      
+      <br><br>
+      
+      <h4 style="font-family: 'Georgia', serif; color: #C5A059; margin-bottom: 8px; font-weight: normal;">Quick Info</h4>
+      <div align="center" style="font-family: sans-serif; font-size: 13px; line-height: 1.6; color: #8B7355;">
+        Nairobi, Kenya<br>
+        UTC -12:00
+      </div>
+    </td>
 
-<h1 style="font-family: sans-serif; color: #5D6D7E;">Hello! I'm JonnyDfilms</h1>
-<p style="font-family: sans-serif; color: #8A9A5B; font-size: 1.2em;">Developer · Content Creator · Systems Tinkerer</p>
+    <!-- RIGHT COLUMN: Main Content -->
+    <td width="70%" valign="top" style="padding-left: 25px;">
+      
+      <h1 style="font-family: 'Georgia', serif; color: #C5A059; margin-top: 0; font-weight: normal;">Jordan</h1>
+      <p style="font-family: sans-serif; color: #8B7355; font-size: 1.1em; margin-top: -10px;">Systems Architect & Full-Stack Developer</p>
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&weight=500&size=20&pause=1500&color=8A9A5B&center=true&vCenter=true&width=560&height=35&lines=Building+custom+mechanics+in+Python+%26+C++;Game+development+with+Fabric+%26+Roblox;Short-form+video+production+enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=16&pause=1500&color=C5A059&center=false&vCenter=true&width=450&height=30&lines=Building+custom+game+mechanics+from+scratch;Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Deep+in+engine+architecture" alt="Typing SVG" />
 
-<br><br>
+      <br>
 
-<img src="https://img.shields.io/badge/Status-Building-F4C2C2?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Interest-Automation+%26+Media-EADDCA?style=flat-square&logoColor=5D6D7E" />
+      <p style="font-family: sans-serif; line-height: 1.6; color: #3D3B37; font-size: 14px;">
+        Jordan is a versatile developer and content creator proficient in Python, C++, JavaScript, HTML, and CSS, with specialized experience in game engine mechanics and modding via Fabric[cite: 1]. He has hands-on experience managing and optimizing multiplayer server infrastructure using Linux, Docker, and Pterodactyl, while also applying strong skills in digital media production and viral-focused video editing[cite: 1]. Known for engineering custom desktop utilities, building full-stack web applications with backend proxy servers, and managing professional portfolio projects, he brings a unique blend of technical systems architecture and high-level creative storytelling to every project[cite: 1].
+      </p>
 
-</div>
+      <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-top: 20px;">Technical Stack</h3>
+      <table width="100%" border="0">
+        <tr>
+          <td valign="top" width="50%">
+            <strong style="color: #8B7355; font-size: 13px;">Languages & Core</strong><br>
+            <span style="font-size: 13px; color: #3D3B37;">Python, C++, JS, HTML, CSS</span>
+          </td>
+          <td valign="top" width="50%">
+            <strong style="color: #8B7355; font-size: 13px;">Systems & DevOps</strong><br>
+            <span style="font-size: 13px; color: #3D3B37;">Linux, Docker, Pterodactyl</span>
+          </td>
+        </tr>
+      </table>
 
-<br>
-
-## 📖 About Me
-I am a developer who loves building, whether it's low-level systems code or high-level creative content. I bridge the gap between technical utility and digital storytelling. 
-
-Currently, I spend my time exploring **game engine mechanics**, **backend infrastructure**, and **content production**. My goal is to create clean, efficient tools that make complex tasks feel simple and accessible.
-
-<br>
-
-## 🛠️ Technical Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/-Python-8A9A5B?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-8A9A5B?style=flat-square&logo=cplusplus&logoColor=white)
-![JS/HTML](https://img.shields.io/badge/-Web-8A9A5B?style=flat-square&logo=javascript&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Systems & Tools**
-
-![Linux](https://img.shields.io/badge/-CachyOS-F4C2C2?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F4C2C2?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-F4C2C2?style=flat-square&logo=docker&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Creative & Modding**
-
-![Minecraft](https://img.shields.io/badge/-Fabric-EADDCA?style=flat-square&logo=minecraft&logoColor=5D6D7E)
-![Roblox](https://img.shields.io/badge/-Roblox-EADDCA?style=flat-square&logo=roblox&logoColor=5D6D7E)
-![Editing](https://img.shields.io/badge/-Video-EADDCA?style=flat-square&logo=adobe-premiere-pro&logoColor=5D6D7E)
-
-</td>
-</tr>
+      <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-top: 20px;">Featured Work</h3>
+      <ul style="font-family: sans-serif; font-size: 13px; line-height: 1.6; padding-left: 20px; color: #3D3B37;">
+        <li><strong>Desktop Search Utility:</strong> C++/Python spotlight-style tool for OS-level efficiency[cite: 1].</li>
+        <li><strong>Full-Stack Framework:</strong> Multi-user school website using backend proxy architecture[cite: 1].</li>
+        <li><strong>Professional Portfolio:</strong> Designed and hosted a minimalist front-end interface for a client[cite: 1].</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
-<br>
+<!-- BOTTOM: Production Log & Connections -->
+<br><br>
+<div align="center">
+  <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-bottom: 10px;">Recent Production Log</h3>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jxrdn98-byte&bg_color=F5F1E6&color=8B7355&line=8B7355&point=3D3B37&area=true&hide_border=true&border_radius=0" alt="Activity Graph" />
+</div>
 
-## 📈 Activity
+<hr style="border: 0; height: 1px; background-color: #8B7355; margin: 40px 0;">
 
 <div align="center">
-<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=ffffff&title_color=5D6D7E&icon_color=8A9A5B&text_color=5D6D7E&border_radius=6" alt="stats" />
-<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=ffffff&title_color=5D6D7E&icon_color=8A9A5B&text_color=5D6D7E&border_radius=6&langs_count=8" alt="top langs" />
+  <h4 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-bottom: 15px;">Connect with me</h4>
+  
+  <a href="https://www.instagram.com/j.overflow_/">
+    <img src="https://img.shields.io/badge/-Instagram-1F1C18?style=for-the-badge&logo=instagram&logoColor=C5A059" alt="Instagram" />
+  </a>
+  <a href="https://discord.com/users/1487015431125471372">
+    <img src="https://img.shields.io/badge/-Discord-1F1C18?style=for-the-badge&logo=discord&logoColor=C5A059" alt="Discord" />
+  </a>
+  <a href="mailto:jxrdn98@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-1F1C18?style=for-the-badge&logo=gmail&logoColor=C5A059" alt="Email" />
+  </a>
 </div>
 
 <br>
-
 <div align="center">
-<sub style="color: #5D6D7E;">Keep creating, keep building.</sub>
+  <sub style="color: #8B7355; font-family: 'Georgia', serif; font-style: italic;">Sometimes known as Jordy.</sub>
 </div>
