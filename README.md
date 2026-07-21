@@ -1,73 +1,84 @@
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <!-- LEFT COLUMN: Sidebar & Badge Area -->
-    <td width="30%" valign="top" align="center">
-      <!-- Profile Picture -->
-      <img src="https://images.unsplash.com/photo-1534447677768-be436bb09401?w=150&h=150&fit=crop&crop=faces" width="130" style="border-radius: 50%; border: 3px solid #C5A059;" alt="Jordan" />
-      <br><br>
-      <h4 style="font-family: 'Georgia', serif; color: #C5A059; margin-bottom: 8px; font-weight: normal;">Focus & Environment</h4>
-      <img src="https://img.shields.io/badge/Focus-Engine%20Architecture-1F1C18?style=flat-square&logoColor=C5A059" /><br>
-      <img src="https://img.shields.io/badge/Env-CachyOS-1F1C18?style=flat-square&logo=linux&logoColor=C5A059" /><br>
-      <img src="https://img.shields.io/badge/Modding-Fabric-1F1C18?style=flat-square&logo=minecraft&logoColor=C5A059" />
-      <br><br>
-      <h4 style="font-family: 'Georgia', serif; color: #C5A059; margin-bottom: 8px; font-weight: normal;">Quick Info</h4>
-      <div align="center" style="font-family: sans-serif; font-size: 13px; line-height: 1.6; color: #8B7355;">Nairobi, Kenya<br>UTC -12:00</div>
-    </td>
-    <!-- RIGHT COLUMN: Main Content -->
-    <td width="70%" valign="top" style="padding-left: 25px;">
-      <h1 style="font-family: 'Georgia', serif; color: #C5A059; margin-top: 0; font-weight: normal;">Jordan</h1>
-      <p style="font-family: sans-serif; color: #8B7355; font-size: 1.1em; margin-top: -10px;">Systems Architect & Full-Stack Developer</p>
-      <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=500&size=16&pause=1500&color=C5A059&center=false&vCenter=true&width=450&height=30&lines=Building+custom+game+mechanics+from+scratch;Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Deep+in+engine+architecture" alt="Typing SVG" />
-      <br>
-      <p style="font-family: sans-serif; line-height: 1.6; color: #3D3B37; font-size: 14px;">Jordan is a versatile developer and content creator proficient in Python, C++, JavaScript, HTML, and CSS, with specialized experience in game engine mechanics and modding via Fabric. He has hands-on experience managing and optimizing multiplayer server infrastructure using Linux, Docker, and Pterodactyl, while also applying strong skills in digital media production and viral-focused video editing. Known for engineering custom desktop utilities, building full-stack web applications with backend proxy servers, and managing professional portfolio projects, he brings a unique blend of technical systems architecture and high-level creative storytelling to every project.</p>
-      <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-top: 20px;">Technical Stack</h3>
-      <table width="100%" border="0">
-        <tr>
-          <td valign="top" width="50%">
-            <strong style="color: #8B7355; font-size: 13px;">Languages & Core</strong><br>
-            <span style="font-size: 13px; color: #3D3B37;">Python, C++, JS, HTML, CSS</span>
-          </td>
-          <td valign="top" width="50%">
-            <strong style="color: #8B7355; font-size: 13px;">Systems & DevOps</strong><br>
-            <span style="font-size: 13px; color: #3D3B37;">Linux, Docker, Pterodactyl</span>
-          </td>
-        </tr>
-      </table>
-      <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-top: 20px;">Featured Work</h3>
-      <ul style="font-family: sans-serif; font-size: 13px; line-height: 1.6; padding-left: 20px; color: #3D3B37;">
-        <li><strong>Desktop Search Utility:</strong> C++/Python spotlight-style tool for OS-level efficiency.</li>
-        <li><strong>Full-Stack Framework:</strong> Multi-user school website using backend proxy architecture.</li>
-        <li><strong>Professional Portfolio:</strong> Designed and hosted a minimalist front-end interface for a client.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<!-- BOTTOM: Production Log & Connections -->
-<br><br>
-
 <div align="center">
-  <h3 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-bottom: 10px;">Recent Production Log</h3>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jxrdn98-byte&bg_color=F5F1E6&color=8B7355&line=8B7355&point=3D3B37&area=true&hide_border=true&border_radius=0" alt="Activity Graph" />
+
+<h1>Jordey</h1>
+<h3>Full-Stack Developer · Game Engine Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&pause=1500&color=B990F0&center=true&vCenter=true&width=580&height=35&lines=Building+custom+game+mechanics+from+scratch;Python+%C2%B7+C%2B%2B+%C2%B7+JavaScript;Currently+deep+in+engine+architecture" alt="Typing SVG" />
+
+<br>
+
+<a href="https://github.com/jxrdn98-byte">
+  <img src="https://img.shields.io/badge/GitHub-jxrdn98--byte-1E1A2E?style=flat-square&logo=github&logoColor=B990F0" />
+</a>
+<img src="https://img.shields.io/badge/Focus-Engine%20Architecture-1E1A2E?style=flat-square&logoColor=FFB37A&color=1E1A2E&labelColor=1E1A2E" />
+
 </div>
 
-<hr style="border: 0; height: 1px; background-color: #8B7355; margin: 40px 0;">
+<br>
+
+## About
+
+Full-stack developer working across web and systems-level code, with a particular interest in game engines — I like understanding how the layer underneath the game actually works, and building custom mechanics rather than relying on off-the-shelf solutions.
+
+Currently focused on engine architecture and rendering pipelines. Comfortable moving between application code and lower-level systems work.
+
+<br>
+
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-1E1A2E?style=flat-square&logo=python&logoColor=B990F0)
+![C++](https://img.shields.io/badge/-C%2B%2B-1E1A2E?style=flat-square&logo=cplusplus&logoColor=B990F0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1E1A2E?style=flat-square&logo=javascript&logoColor=B990F0)
+
+</td>
+<td valign="top" width="33%">
+
+**Engines & Frameworks**
+
+![Unity](https://img.shields.io/badge/-Unity-1E1A2E?style=flat-square&logo=unity&logoColor=B990F0)
+![Node.js](https://img.shields.io/badge/-Node.js-1E1A2E?style=flat-square&logo=nodedotjs&logoColor=B990F0)
+![React](https://img.shields.io/badge/-React-1E1A2E?style=flat-square&logo=react&logoColor=B990F0)
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/-Git-1E1A2E?style=flat-square&logo=git&logoColor=B990F0)
+![Linux](https://img.shields.io/badge/-Linux-1E1A2E?style=flat-square&logo=linux&logoColor=B990F0)
+![VS Code](https://img.shields.io/badge/-VS%20Code-1E1A2E?style=flat-square&logo=visualstudiocode&logoColor=B990F0)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Activity
 
 <div align="center">
-  <h4 style="font-family: 'Georgia', serif; color: #C5A059; font-weight: normal; margin-bottom: 15px;">Connect with me</h4>
-  <a href="https://www.instagram.com/j.overflow_/">
-    <img src="https://img.shields.io/badge/-Instagram-1F1C18?style=for-the-badge&logo=instagram&logoColor=C5A059" alt="Instagram" />
-  </a>
-  <a href="https://discord.com/users/1487015431125471372">
-    <img src="https://img.shields.io/badge/-Discord-1F1C18?style=for-the-badge&logo=discord&logoColor=C5A059" alt="Discord" />
-  </a>
-  <a href="mailto:jxrdn98@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-1F1C18?style=for-the-badge&logo=gmail&logoColor=C5A059" alt="Email" />
-  </a>
+<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jxrdn98-byte&show_icons=true&hide_border=true&bg_color=15121F&title_color=B990F0&icon_color=FFB37A&text_color=9C93B5&border_radius=10&count_private=true" alt="stats" />
+<img height="160" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jxrdn98-byte&layout=compact&hide_border=true&bg_color=15121F&title_color=B990F0&icon_color=FFB37A&text_color=9C93B5&border_radius=10&langs_count=8" alt="top langs" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jxrdn98-byte&hide_border=true&background=15121F&ring=B990F0&fire=FFB37A&currStreakLabel=B990F0&sideLabels=9C93B5&currStreakNum=F5F3FA&sideNums=F5F3FA&dates=9C93B5&border_radius=10" alt="streak stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <sub style="color: #8B7355; font-family: 'Georgia', serif; font-style: italic;">Sometimes known as Jordy.</sub>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jxrdn98-byte&bg_color=15121F&color=B990F0&line=B990F0&point=FFB37A&area=true&hide_border=true&border_radius=10" alt="activity graph" />
+</div>
+
+<br>
+
+<div align="center">
+<sub>jxrdn98-byte</sub>
 </div>
